@@ -1,0 +1,21 @@
+
+
+.space {
+    z-index: 0;
+    opacity: 40%;
+
+}
+
+body{
+    background: #000000;  /* fallback for old browsers */
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    text-align: center;
+    z-index: 1;
+    color: white;
+    position: absolute;
+}
+
